@@ -1,19 +1,19 @@
-from test_cls_1 import *
+from module_1 import *
 
-tc1_func1
-tc1_func2 # cant import
-_tc1_func2
-tc1_func3
+m1_func1
+m1_func2 # cant import
+_m1_func2
+m1_func3
 
-tc1_class1.call
-tc1_class2._call
+m1_class1.call
+m1_class2._call
 
-from test_cls_2 import *
+from module_2 import *
 
-tc2_func1
-_tc2_func2 # cant import
-tc2_func3 # cant import
-tc2_class1 # cant import
-tc2_class2
+m2_func1
+_m2_func2 # cant import
+m2_func3 # cant import
+m2_class1 # cant import
+m2_class2
 
 

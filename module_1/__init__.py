@@ -1,23 +1,21 @@
-__all__ = ["tc2_func1", "tc2_class2"]
-
-def tc2_func1():
+def m1_func1():
     pass
 
 
-def _tc2_func2():
+def _m1_func2():
     pass
 
-def tc2_func3():
+def m1_func3():
     pass 
 
-class tc2_class1:
+class m1_class1:
     def __init__():
         pass
 
     def call():
         pass
 
-class tc2_class2:
+class m1_class2:
     def __init__():
         pass
 
