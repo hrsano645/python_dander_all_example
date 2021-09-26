@@ -5,8 +5,14 @@ def m1_func1():
 def _m1_func2():
     pass
 
+
 def m1_func3():
     pass 
+
+
+def _m1_func4():
+    pass 
+
 
 class m1_class1:
     def __init__():
